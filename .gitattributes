@@ -1,2 +1,2 @@
 *text=auto
-*.docx 
+*.docx merge=union
